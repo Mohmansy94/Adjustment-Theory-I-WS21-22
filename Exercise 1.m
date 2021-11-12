@@ -74,14 +74,3 @@ rn_N = rank (A)
 inv_N = inv (N)
 pinv_N = pinv (N)
 [eigVec_N,eigVal_N] = eig(N)
-
-
-
-
-
-
-
-
-
-
-
