@@ -1,6 +1,6 @@
 
 
-## Please replace the code in your TemplateEx2.m to be like that, then try it with Octave or Matlab, and inform me if there is any error!
+% Please replace the code in your TemplateEx2.m to be like that, then try it with Octave or Matlab, and inform me if there is any error!
  
 
 
